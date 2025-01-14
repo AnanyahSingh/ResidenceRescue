@@ -32,14 +32,19 @@ powerful features to provide an engaging and functional user experience.
 📸 **Demo Usage:**  
 
    <img width="960" alt="1" src="https://github.com/user-attachments/assets/158072c5-1dd1-4b9d-b9ac-2ae72ef590b9" />
+   
 
    <img width="975" alt="2" src="https://github.com/user-attachments/assets/7d93d62d-0a29-4f18-a874-6b77b3a8767a" />
 
+
    <img width="960" alt="3" src="https://github.com/user-attachments/assets/c17f6d99-8ce3-4f06-b599-cd4f2c487e1c" />
+
 
    <img width="960" alt="4" src="https://github.com/user-attachments/assets/e27e69c4-84da-431f-b6f8-e75e43e72177" />
 
+
    <img width="960" alt="5" src="https://github.com/user-attachments/assets/24421294-9e57-45f6-b0f3-69c231628aa7" />
+
 
    <img width="960" alt="6" src="https://github.com/user-attachments/assets/239b3500-8792-4c82-b945-f1377185502b" />
 
